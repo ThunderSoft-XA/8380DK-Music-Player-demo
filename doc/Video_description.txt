@@ -1,0 +1,1 @@
+The first choice is to demonstrate the running environment of our Cheng APP, followed by demonstrating the functions of the APP. From adding music files, clicking play and pause, to switching songs, previous and next.
